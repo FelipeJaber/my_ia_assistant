@@ -22,6 +22,8 @@ dependencies:
   # iOS Styled Icons
   cupertino_icons: ^1.0.8
 
+  device_info_plus: ^10.1.2
+
   # For using Lottie Animations
   lottie: ^3.1.2
 
